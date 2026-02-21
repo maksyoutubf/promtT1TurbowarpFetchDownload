@@ -1,6 +1,6 @@
 onFlag/;
-/{say}(3, "hello from GitHub")
-/{say}(3, "unical program language!")
-/{move}(10)
-/{say}(1, "")
+/{say}(3, "hello from GitHub");
+/{say}(3, "unical program language!");
+/{move}(10);
+/{say}(1, "");
 /{move}(-10)
