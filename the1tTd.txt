@@ -1,1 +1,2 @@
-onFlag/;/{say}(3, "hello from GitHub")
+onFlag/;
+/{say}(3, "hello from GitHub")
